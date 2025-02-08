@@ -20,6 +20,8 @@ Cambios desde rama (desarrollo01)
 | Paragraph | Text |
 
 
+Here's a sentence with a footnote. [^1]
+
 ```
 {
   "firstName": "John",
@@ -27,3 +29,8 @@ Cambios desde rama (desarrollo01)
   "age": 25
 }
 ```
+
+
+
+
+[^1]: This is the footnote.
