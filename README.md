@@ -20,7 +20,7 @@ Cambios desde rama (desarrollo01)
 | Paragraph | Text |
 
 
-	```
+```
 {
   "firstName": "John",
   "lastName": "Smith",
