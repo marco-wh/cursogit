@@ -1,16 +1,16 @@
 # cursogit
 Este es un nuevo repo
 
-
-
 Primer aporte
 
 Segundo aporte (github)
 
 Otro aporte
 
-
 Cambios desde rama (desarrollo01)
+
+Aporte desde Github CodeSpace
+
 
 # Sintaxis avanzada de Markdown
 
