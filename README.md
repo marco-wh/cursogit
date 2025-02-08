@@ -11,3 +11,8 @@ Otro aporte
 
 
 Cambios desde rama (desarrollo01)
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
