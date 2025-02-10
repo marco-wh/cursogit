@@ -9,6 +9,9 @@ Otro aporte
 
 Cambios desde rama (desarrollo01)
 
+Aporte desde Github CodeSpace
+
+
 # Sintaxis avanzada de Markdown
 
 | Syntax | Description |
